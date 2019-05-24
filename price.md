@@ -1,1 +1,1 @@
-price 1.0
+price 3.0
